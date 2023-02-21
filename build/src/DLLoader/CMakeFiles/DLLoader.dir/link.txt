@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libDLLoader.a CMakeFiles/DLLoader.dir/DLLoader.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libDLLoader.a

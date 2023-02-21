@@ -1,0 +1,9 @@
+/Users/hovogrigoryan/Documents/Picsart/PicsArtProjects/build/CMakeFiles/expression_evaluator.dir
+/Users/hovogrigoryan/Documents/Picsart/PicsArtProjects/build/CMakeFiles/edit_cache.dir
+/Users/hovogrigoryan/Documents/Picsart/PicsArtProjects/build/CMakeFiles/rebuild_cache.dir
+/Users/hovogrigoryan/Documents/Picsart/PicsArtProjects/build/libs/CMakeFiles/Float.dir
+/Users/hovogrigoryan/Documents/Picsart/PicsArtProjects/build/libs/CMakeFiles/edit_cache.dir
+/Users/hovogrigoryan/Documents/Picsart/PicsArtProjects/build/libs/CMakeFiles/rebuild_cache.dir
+/Users/hovogrigoryan/Documents/Picsart/PicsArtProjects/build/src/DLLoader/CMakeFiles/DLLoader.dir
+/Users/hovogrigoryan/Documents/Picsart/PicsArtProjects/build/src/DLLoader/CMakeFiles/edit_cache.dir
+/Users/hovogrigoryan/Documents/Picsart/PicsArtProjects/build/src/DLLoader/CMakeFiles/rebuild_cache.dir
